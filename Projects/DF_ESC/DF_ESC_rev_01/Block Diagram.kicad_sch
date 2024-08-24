@@ -1,0 +1,509 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "cb06b394-4a8c-448a-979c-f9cb3b883d93")
+	(paper "A4")
+	(lib_symbols)
+	(polyline
+		(pts
+			(xy 74.93 109.22) (xy 85.09 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "046e387e-1304-4b2b-bea7-10dd5cae05fc")
+	)
+	(polyline
+		(pts
+			(xy 73.66 50.8) (xy 90.17 50.8)
+		)
+		(stroke
+			(width 1.27)
+			(type default)
+		)
+		(uuid "0b2f8937-5949-4489-93a6-8aff3630bd1f")
+	)
+	(polyline
+		(pts
+			(xy 129.54 114.3) (xy 129.54 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "12db598a-c92b-4b06-9f21-ce1e52d43070")
+	)
+	(polyline
+		(pts
+			(xy 229.87 93.98) (xy 241.3 93.98)
+		)
+		(stroke
+			(width 1.27)
+			(type default)
+		)
+		(uuid "184790da-027a-4fdd-9310-2785f9355590")
+	)
+	(polyline
+		(pts
+			(xy 85.09 109.22) (xy 85.09 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2cbac717-4c3a-4ae2-b73a-13b1ce65afc9")
+	)
+	(polyline
+		(pts
+			(xy 85.09 92.71) (xy 101.6 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4a2ef4c9-3bfb-4079-a93a-fb165499244d")
+	)
+	(polyline
+		(pts
+			(xy 90.17 125.73) (xy 90.17 46.99)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+		)
+		(uuid "591892f2-84f8-43f3-ab78-cbe447239046")
+	)
+	(polyline
+		(pts
+			(xy 87.63 97.79) (xy 101.6 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5b80f1a3-e580-43a4-972e-178fb4ec21d4")
+	)
+	(polyline
+		(pts
+			(xy 93.98 166.37) (xy 93.98 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "60385546-30bd-4ad1-8f77-202de2a0a369")
+	)
+	(polyline
+		(pts
+			(xy 129.54 102.87) (xy 130.81 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6278d374-0e65-45ca-a109-a60b45663c08")
+	)
+	(polyline
+		(pts
+			(xy 74.93 135.89) (xy 87.63 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6f05b586-bebc-45c5-988e-3d996957b199")
+	)
+	(polyline
+		(pts
+			(xy 93.98 101.6) (xy 101.6 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7176eb80-ccda-4ca8-987f-19e6b442debe")
+	)
+	(polyline
+		(pts
+			(xy 90.17 46.99) (xy 229.87 46.99)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+		)
+		(uuid "7f6d3023-d428-4645-95fd-71aec6c12f9c")
+	)
+	(polyline
+		(pts
+			(xy 90.17 125.73) (xy 229.87 125.73)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+		)
+		(uuid "84ad3d03-e4d5-4dd3-a83d-d9a6d36e43be")
+	)
+	(polyline
+		(pts
+			(xy 229.87 125.73) (xy 229.87 46.99)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+		)
+		(uuid "93e2e0e0-6fc4-4f66-9209-5d1c3e109f59")
+	)
+	(polyline
+		(pts
+			(xy 87.63 135.89) (xy 87.63 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "97f098e0-6cdb-4eaa-a063-3e90abe71e22")
+	)
+	(polyline
+		(pts
+			(xy 90.17 109.22) (xy 90.17 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a570a5a7-2207-4338-8fea-ffa5c966afa9")
+	)
+	(polyline
+		(pts
+			(xy 121.92 134.62) (xy 121.92 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a9825d8d-184f-45c4-b139-8ea931f11923")
+	)
+	(polyline
+		(pts
+			(xy 74.93 78.74) (xy 82.55 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b2098c7a-d0fc-4f45-a2d7-c1ca5ac50212")
+	)
+	(polyline
+		(pts
+			(xy 82.55 88.9) (xy 101.6 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b4da3dc6-ecaa-44c6-80ed-84e1c62bc7c6")
+	)
+	(polyline
+		(pts
+			(xy 167.64 134.62) (xy 167.64 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b9a03c0a-c762-4426-bf4a-0e118bfc7327")
+	)
+	(polyline
+		(pts
+			(xy 135.89 95.25) (xy 146.05 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "babe75f0-a6ee-4125-b706-85560d32fd49")
+	)
+	(polyline
+		(pts
+			(xy 167.64 114.3) (xy 129.54 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "be369758-a23f-4853-8bd1-f11e71d57ef0")
+	)
+	(polyline
+		(pts
+			(xy 121.92 102.87) (xy 123.19 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ca631a27-8006-4a6b-a55a-ac23ee947e68")
+	)
+	(polyline
+		(pts
+			(xy 74.93 166.37) (xy 93.98 166.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d83c5e7d-ecc3-4b2f-a487-cf36fb1c5b7e")
+	)
+	(polyline
+		(pts
+			(xy 187.96 95.25) (xy 187.96 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e14f9551-e6cd-484d-bcfd-8e9b9669cb1f")
+	)
+	(polyline
+		(pts
+			(xy 82.55 78.74) (xy 82.55 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e21281e5-9c5c-44fb-9cad-55079e06dffe")
+	)
+	(polyline
+		(pts
+			(xy 180.34 96.52) (xy 187.96 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eda13073-c72c-4bfb-8537-06d708b6dd12")
+	)
+	(text_box "USB"
+		(exclude_from_sim no)
+		(at 40.64 128.27 0)
+		(size 34.29 17.78)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(bold yes)
+			)
+		)
+		(uuid "179669bc-6a2e-4c24-a512-9f5ee3f0ae30")
+	)
+	(text_box "HALL/Encoder"
+		(exclude_from_sim no)
+		(at 40.64 101.6 0)
+		(size 34.29 17.78)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(bold yes)
+			)
+		)
+		(uuid "391d8dcd-6f39-441d-ba77-15512144057a")
+	)
+	(text_box "Servo"
+		(exclude_from_sim no)
+		(at 148.59 134.62 0)
+		(size 34.29 17.78)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(bold yes)
+			)
+		)
+		(uuid "3f1f601f-76c5-4117-a181-8851e70f50eb")
+	)
+	(text_box "Motor"
+		(exclude_from_sim no)
+		(at 241.3 83.82 0)
+		(size 34.29 17.78)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(bold yes)
+			)
+		)
+		(uuid "555d09d1-a974-4406-a88a-4809f8843f75")
+	)
+	(text_box "v_Supply"
+		(exclude_from_sim no)
+		(at 39.37 41.91 0)
+		(size 34.29 17.78)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(bold yes)
+			)
+		)
+		(uuid "5b0be933-caae-4a36-9f93-8183fccedf4e")
+	)
+	(text_box "CAN"
+		(exclude_from_sim no)
+		(at 40.5174 71.4537 0)
+		(size 34.29 17.78)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(bold yes)
+			)
+		)
+		(uuid "6598de61-3995-4197-af71-5232782e4546")
+	)
+	(text_box "MCU"
+		(exclude_from_sim no)
+		(at 101.6 85.09 0)
+		(size 34.29 17.78)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(bold yes)
+			)
+		)
+		(uuid "83accf4d-5b43-4a43-b6e3-db356af1f133")
+	)
+	(text_box "Temp_Sensor"
+		(exclude_from_sim no)
+		(at 105.41 134.62 0)
+		(size 34.29 17.78)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(bold yes)
+			)
+		)
+		(uuid "c3906986-45ed-4068-8b69-79a2a1ca1f68")
+	)
+	(text_box "MOSFETs"
+		(exclude_from_sim no)
+		(at 187.96 85.09 0)
+		(size 34.29 17.78)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(bold yes)
+			)
+		)
+		(uuid "c96816c4-6564-46b1-86f0-418e09637e5b")
+	)
+	(text_box "COM"
+		(exclude_from_sim no)
+		(at 40.64 156.21 0)
+		(size 34.29 17.78)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(bold yes)
+			)
+		)
+		(uuid "df8c7c5e-d536-4825-99a5-2b09517fbfa9")
+	)
+	(text_box "MOSFET Driver"
+		(exclude_from_sim no)
+		(at 146.05 85.09 0)
+		(size 34.29 17.78)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(bold yes)
+			)
+		)
+		(uuid "ecb3e1cf-eae9-45b8-9332-2a314856fe2b")
+	)
+	(text "Block Diagram "
+		(exclude_from_sim no)
+		(at 150.622 20.828 0)
+		(effects
+			(font
+				(size 5.08 5.08)
+				(thickness 0.508)
+				(bold yes)
+			)
+		)
+		(uuid "52529071-7da1-4788-bf3b-7b67b330f170")
+	)
+)
